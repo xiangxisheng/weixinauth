@@ -1,0 +1,14 @@
+{
+    "name": "xiangxisheng/wzbocheapi",
+    "type": "project",
+    "authors": [
+        {
+            "name": "xiangxisheng",
+            "email": "xxs@firadio.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "firadio/firadiophp": ">=0.0.1"
+    }
+}
